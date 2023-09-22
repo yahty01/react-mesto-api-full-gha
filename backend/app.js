@@ -51,8 +51,3 @@ app.listen(PORT);
 // app.listen(PORT, () => {
 //   console.log(`Server is up & listening to port ${PORT}.`);
 // });
-
-// {
-//   origin: 'https://dolinovskaya.nomoredomainsicu.ru',
-//   credentials: true,
-// }
