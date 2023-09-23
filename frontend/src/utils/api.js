@@ -111,7 +111,7 @@ class Api {
 }
 
 const api = new Api({
-  baseUrl: 'https://api.dolinovskaya.nomoredomainsicu.ru',
+  baseUrl: 'https://api.yahty.nomoredomainsrocks.ru',
 });
 
 export default api;

@@ -1,4 +1,4 @@
-const baseUrl = 'https://api.dolinovskaya.nomoredomainsicu.ru'
+const baseUrl = 'https://api.yahty.nomoredomainsrocks.ru'
 
 function getResponse(res) {
     if (res.ok) {
