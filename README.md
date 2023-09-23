@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 84.201.155.136
+IP 84.201.155.136
 
 Frontend https://yahty.nomoredomainsrocks.ru
 
