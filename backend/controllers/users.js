@@ -7,7 +7,7 @@ const BadRequestError = require('../errors/BadRequestError');
 const NotFoundError = require('../errors/NotFoundError');
 const ConflictError = require('../errors/ConflictError');
 
-const { SECRET_KEY = 'secret-key' } = process.env;
+const { SECRET_KEY, NODE_ENV} = process.env;
 
 module.exports.createUser = (req, res, next) => {
   const {
